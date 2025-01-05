@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haideraaftab1/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/haideraaftab1/leetcode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/haideraaftab1/leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/haideraaftab1/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/haideraaftab1/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
