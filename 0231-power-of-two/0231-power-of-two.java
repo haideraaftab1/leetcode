@@ -5,7 +5,7 @@ class Solution {
         while(n != 0) {
             int lastBit = n & 1;
             n = n >> 1;
-            if(lastBit == 1 & n != 0)
+            if(lastBit == 1 && n != 0)
             return false;
         }
         return true;
