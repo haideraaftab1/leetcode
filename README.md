@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/haideraaftab1/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/haideraaftab1/leetcode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/haideraaftab1/leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/haideraaftab1/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/haideraaftab1/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/haideraaftab1/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/haideraaftab1/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/haideraaftab1/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/haideraaftab1/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
