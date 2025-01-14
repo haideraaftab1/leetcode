@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/haideraaftab1/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/haideraaftab1/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/haideraaftab1/leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/haideraaftab1/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/haideraaftab1/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/haideraaftab1/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/haideraaftab1/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/haideraaftab1/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/haideraaftab1/leetcode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/haideraaftab1/leetcode/tree/master/1054-complement-of-base-10-integer) |
